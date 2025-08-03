@@ -6,7 +6,7 @@ This is a Node.js development workspace configured for VS Code with a devcontain
 
 1. Open this folder in VS Code.
 2. Reopen in Container when prompted.
-3. Run `npm start` to launch the Hello World app.
+3. Run `npx http-server -p 3000` to start a static server on port 3000.
 
 ## Features
 
