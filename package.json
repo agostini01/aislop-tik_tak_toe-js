@@ -1,0 +1,11 @@
+{
+    "name": "aislop-tik_tak_toe-js",
+    "version": "1.0.0",
+    "description": "Node.js Hello World project in a devcontainer",
+    "main": "index.js",
+    "scripts": {
+        "start": "node index.js"
+    },
+    "author": "",
+    "license": "ISC"
+}

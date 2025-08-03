@@ -1,0 +1,21 @@
+{
+    "name": "Node.js DevContainer",
+    "image": "mcr.microsoft.com/devcontainers/javascript-node:latest",
+    "features": {},
+    "forwardPorts": [
+        3000
+    ],
+    "postCreateCommand": "bash .devcontainer/post-create.sh",
+    "customizations": {
+        "vscode": {
+            "settings": {},
+            "extensions": [
+                "dbaeumer.vscode-eslint",
+                "esbenp.prettier-vscode",
+                "ms-vscode-remote.vscode-remote-extensionpack",
+                "MS-vsliveshare.vsliveshare",
+                "ms-azuretools.vscode-containers"
+            ]
+        }
+    }
+}
