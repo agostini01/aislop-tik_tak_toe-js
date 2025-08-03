@@ -13,5 +13,3 @@ This is a Node.js development workspace configured for VS Code with a devcontain
 - Node.js environment
 - npm package manager
 - ESLint and Prettier extensions
-
-Test
