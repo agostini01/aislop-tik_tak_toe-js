@@ -1,0 +1,18 @@
+body {
+    background-color: #f5f5dc; /* Beige */
+}
+
+.cell {
+    background-color: #fffacd; /* LemonChiffon */
+    border-color: #daa520; /* GoldenRod */
+}
+
+.cell[data-player="X"] {
+    color: #ffd700; /* Gold */
+    text-shadow: 0 0 5px #ffd700;
+}
+
+.cell[data-player="O"] {
+    color: #dc143c; /* Crimson */
+    text-shadow: 0 0 5px #dc143c;
+}

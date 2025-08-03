@@ -1,0 +1,16 @@
+.cell {
+    background-color: #f0f0f0;
+    color: #333;
+}
+
+.cell:hover {
+    background-color: #e0e0e0;
+}
+
+.cell[data-player="X"] {
+    color: #007bff;
+}
+
+.cell[data-player="O"] {
+    color: #28a745;
+}

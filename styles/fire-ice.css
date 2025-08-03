@@ -1,0 +1,18 @@
+body {
+    background-color: #222;
+}
+
+.cell {
+    background-color: #444;
+    border-color: #666;
+}
+
+.cell[data-player="X"] {
+    color: #ff4500; /* OrangeRed */
+    text-shadow: 0 0 10px #ff4500;
+}
+
+.cell[data-player="O"] {
+    color: #00bfff; /* DeepSkyBlue */
+    text-shadow: 0 0 10px #00bfff;
+}
