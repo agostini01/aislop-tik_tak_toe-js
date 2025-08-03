@@ -1,4 +1,4 @@
-# Node.js DevContainer Workspace
+# tik tak toe made with ai
 
 This is a Node.js development workspace configured for VS Code with a devcontainer and npm as the package manager.
 
